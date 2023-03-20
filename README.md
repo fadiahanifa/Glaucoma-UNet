@@ -10,4 +10,5 @@ This algorithm includes:
 3. Feature Extraction (CDR and RDR)
 4. Glaucoma Classification
 
-To run model go to [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uYM_0tZ1-OmseUWbAmm3t6FRPsdpUpAP#scrollTo=sipvmbYBLv5c&uniqifier=1]
+To run model go to
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/fadiahanifa/Glaucoma-UNet/blob/main/Glaucoma%20Detection.ipynb))
