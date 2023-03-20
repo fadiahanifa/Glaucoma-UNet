@@ -11,4 +11,4 @@ Glaucoma is eye disease which is caused by increase of intraocular pressure. The
 4. Glaucoma Classification
 
 ## Run Model
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/fadiahanifa/Glaucoma-UNet/blob/main/Glaucoma%20Detection.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/fadiahanifa/Glaucoma-UNet/blob/main/Glaucoma%20Detection.ipynb)
