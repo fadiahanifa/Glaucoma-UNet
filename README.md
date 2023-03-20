@@ -9,3 +9,5 @@ This algorithm includes:
 2. Optic Disc and Optic Cup Segmentation using U-Net
 3. Feature Extraction (CDR and RDR)
 4. Glaucoma Classification
+
+To run model go to [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uYM_0tZ1-OmseUWbAmm3t6FRPsdpUpAP#scrollTo=sipvmbYBLv5c&uniqifier=1]
